@@ -1,0 +1,52 @@
+.container1{
+    border: 2px solid black;
+    margin-top: 100px;
+    height: 400px;
+    width: 400px;
+    padding: 20px;
+    border-radius: 5%;
+    background-color: rgb(245, 239, 239);
+    box-shadow: 10px 10px 5px 12px lightblue;
+
+}
+.container2{
+    border: 2px solid black;
+    margin-top: 100px;
+    height: 400px;
+    width: 350px;
+    padding: 20px;
+    border-radius: 5%;
+    background-color: navajowhite;
+    box-shadow: 10px 10px 5px 12px grey;
+
+}
+#sbtn{
+    width: 200px;    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 13px;
+    font-weight: 20px;
+    color: black;
+}
+#semail{
+    width: 300px;
+    border: 1px solid black;
+}
+#spass{
+    width: 300px;
+    border: 1px solid black;
+}
+#lemail{
+    width: 300px;
+    border: 1px solid black;
+}
+#lpass{
+    width: 300px;
+    border: 1px solid black;
+}
+#lbtn{
+    width: 200px;    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 13px;
+    font-weight: 20px;
+    color: black;
+}
